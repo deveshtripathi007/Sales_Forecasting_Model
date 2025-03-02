@@ -11,7 +11,7 @@ stores.csv - Store metadata
 oil.csv - Daily oil prices
 holidays_events.csv - Holidays and special events
 
-🔍 Key Steps
+🔍 Key Steps:
 📌 1. Data Processing & Feature Engineering
 Data Cleaning: Handling missing values, merging datasets, and formatting dates.
 Feature Engineering: Creating time-based features, rolling statistics, and event-based indicators.
@@ -32,7 +32,11 @@ Impact of external factors on sales trends
 Model performance comparison
 Strategic recommendations for better demand forecasting
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 Python, Pandas, NumPy, Matplotlib, Seaborn
 Scikit-Learn, XGBoost, Statsmodels, TensorFlow/Keras
 Jupyter Notebook for documentation
+
+🚀 How to Run:
+* Download the dataset and notebook.
+* Run the Jupyter Notebook to explore data and train models.
