@@ -4,6 +4,7 @@
 This project focuses on forecasting daily sales for various product families across different stores . The goal is to analyze historical sales data and external factors (holidays, oil prices, promotions) to build accurate time series forecasting models.
 
 📂 Dataset
+link: https://drive.google.com/drive/folders/1yFdxmfq1qldBYQzJMmKZb88O9fb4Rvg-?usp=drive_link)
 The dataset consists of multiple files:
 train.csv - Historical sales data
 test.csv - Test set for prediction
