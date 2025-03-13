@@ -6,10 +6,10 @@ This project focuses on forecasting daily sales for various product families acr
 📂 Dataset
 (link: https://drive.google.com/drive/folders/1yFdxmfq1qldBYQzJMmKZb88O9fb4Rvg-?usp=drive_link)
 The dataset consists of multiple files:
-train.csv - Historical sales data.
-test.csv - Test set for prediction.
-stores.csv - Store metadata.
-oil.csv - Daily oil prices.
+train.csv - Historical sales data <br>
+test.csv - Test set for prediction <br>
+stores.csv - Store metadata <br>
+oil.csv - Daily oil prices <br>
 holidays_events.csv - Holidays and special events
 
 🔍 Key Steps:
