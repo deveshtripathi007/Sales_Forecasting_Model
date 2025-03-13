@@ -13,22 +13,20 @@ oil.csv - Daily oil prices <br>
 holidays_events.csv - Holidays and special events
 
 __Key Steps:__ <br>
-* 1. Data Processing & Feature Engineering: <br>
+* 1. <u> Data Processing & Feature Engineering: </u> <br><br>
 Data Cleaning: Handling missing values, merging datasets, and formatting dates.
 Feature Engineering: Creating time-based features, rolling statistics, and event-based indicators.
 Exploratory Data Analysis (EDA): Sales trends, correlation analysis, and anomaly detection.
 
-* 2. Model Training & Evaluation: <br>
-Implemented various forecasting models: <br>
-Naïve Baseline <br>
-ARIMA (Traditional time series model) <br>
-Random Forest Regressor (Tree-based approach) <br>
-XGBoost / LightGBM (Gradient boosting) <br>
-LSTM Neural Networks (Deep learning) <br>
-Prophet (Bonus) for seasonality analysis <br>
+* 2. <u> Model Training & Evaluation: </u> <br><br>
+Implemented various forecasting models- <br>
+  Naïve Baseline <br>
+  ARIMA (Traditional time series model) <br>
+  Random Forest Regressor (Tree-based approach) <br>
+  XGBoost / LightGBM (Gradient boosting) <br>
 Evaluated models using RMSE, MAPE, R² Score, and visual comparisons of actual vs. predicted sales. <br>
 
-* 3. Insights & Business Recommendations <br>
+* 3. <u> Insights & Business Recommendations: </u> <br><br>
 Impact of external factors on sales trends. <br>
 Model performance comparison. <br>
 Strategic recommendations for better demand forecasting. <br>
