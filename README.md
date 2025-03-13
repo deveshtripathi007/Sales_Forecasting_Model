@@ -1,9 +1,9 @@
-📊 **Sales Forecasting using Machine Learning**
+**Sales Forecasting using Machine Learning** <br>
 
-📝 __Project Overview :__ <br><br>
+__Project Overview :__ <br>
 This project focuses on forecasting daily sales for various product families across different stores . The goal is to analyze historical sales data and external factors (holidays, oil prices, promotions) to build accurate time series forecasting models.
 
-📂 __Dataset :__ <br><br>
+__Dataset :__ <br>
 (link: https://drive.google.com/drive/folders/1yFdxmfq1qldBYQzJMmKZb88O9fb4Rvg-?usp=drive_link) <br>
 The dataset consists of multiple files: <br>
 train.csv - Historical sales data <br>
@@ -12,7 +12,7 @@ stores.csv - Store metadata <br>
 oil.csv - Daily oil prices <br>
 holidays_events.csv - Holidays and special events
 
-🔍 __Key Steps:__ <br>
+__Key Steps:__ <br>
 * 1. Data Processing & Feature Engineering: <br>
 Data Cleaning: Handling missing values, merging datasets, and formatting dates.
 Feature Engineering: Creating time-based features, rolling statistics, and event-based indicators.
@@ -33,11 +33,11 @@ Impact of external factors on sales trends. <br>
 Model performance comparison. <br>
 Strategic recommendations for better demand forecasting. <br>
 
-🛠️ __Tech Stack :__
+__Tech Stack :__ <br>
 Python, Pandas, NumPy, Matplotlib, Seaborn
 Scikit-Learn, XGBoost, Statsmodels, TensorFlow/Keras
 Jupyter Notebook for documentation
 
-🚀 __How to Run :__
+__How to Run :__
 * Download the dataset and notebook.
 * Run the Jupyter Notebook to explore data and train models.
